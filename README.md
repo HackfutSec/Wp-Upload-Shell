@@ -4,6 +4,7 @@ This script is a WordPress exploit targeting the plugin.
 
 # buy Tool https://t.me/H4ckfutSec
 
+# Group https://t.me/Hackers_GPs
 
 What it does:
 Exploits a file upload vulnerability in the plugin to upload a malicious PHP shell (spec.ph p).
