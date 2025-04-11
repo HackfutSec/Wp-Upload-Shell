@@ -2,7 +2,7 @@
 
 This script is a WordPress exploit targeting the plugin.
 
-# contact me to buy Tool Telegram https://t.me/H4ckfutSec
+# buy Tool https://t.me/H4ckfutSec
 
 
 What it does:
