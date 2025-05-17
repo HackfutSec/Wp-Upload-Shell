@@ -2,7 +2,7 @@
 
 This script is a WordPress exploit targeting the plugin.
 
-# buy Tool https://t.me/H4ckfutSec
+# buy Tool https://t.me/Err0r_SSL
 
 # Group https://t.me/Hackers_GPs
 
