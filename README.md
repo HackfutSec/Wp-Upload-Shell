@@ -2,9 +2,9 @@
 
 This script is a WordPress exploit targeting the plugin.
 
-# buy Tool https://t.me/HackfutS3c
+# buy Tool https://t.me/H3CkfutS3c
 
-# Group https://t.me/sellerW3bshell
+# Group https://t.me/webshells404
 
 What it does:
 Exploits a file upload vulnerability in the plugin to upload a malicious PHP shell (spec.ph p).
